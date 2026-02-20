@@ -29,9 +29,7 @@ This portfolio website is designed to provide an overview of my work and skills.
 - **JavaScript**: For interactive elements and functionality.
 - **Bootstrap CSS**: For responsive design and pre-built components.
 
-## Demo
 
-You can try the live demo of the application [here](https://vishal-programming.github.io/my-portfolio/).
 
 ## Getting Started
 
@@ -40,7 +38,7 @@ To view or edit the website, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/vishal-programming/vishal-programming.github.io.git
+   git clone https://github.com/vishal1454/vishal1454.github.io.git
    ```
 
 2. **Open `index.html` in a web browser to view the website.**:
@@ -49,5 +47,5 @@ To view or edit the website, follow these steps:
 
 For any questions or suggestions, feel free to reach out.
 
-- GitHub: [vishal-programming](https://github.com/vishal-programming)
+- GitHub: [appmakerishal](https://github.com/appmakervishal)
    
